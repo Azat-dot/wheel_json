@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "name": "asd",
+      "surname": "asd",
+      "balance": 850,
+      "id": 1
+    },
+    {
+      "name": "asfd",
+      "surname": "das",
+      "balance": 700,
+      "id": 2
+    },
+    {
+      "name": "",
+      "surname": "",
+      "balance": 0,
+      "id": 3
+    },
+    {
+      "name": "",
+      "surname": "",
+      "balance": 0,
+      "id": 4
+    },
+    {
+      "name": null,
+      "surname": null,
+      "balance": 0,
+      "id": 5
+    },
+    {
+      "name": "",
+      "surname": "",
+      "balance": 0,
+      "id": 6
+    },
+    {
+      "name": "fsd",
+      "surname": "fsdf",
+      "balance": 50,
+      "photoURL": "https://i.pravatar.cc/300",
+      "id": 7
+    },
+    {
+      "name": "sdfsd",
+      "surname": "",
+      "balance": 910,
+      "photoURL": "https://i.pravatar.cc/300",
+      "id": 8
+    },
+    {
+      "name": "",
+      "surname": "",
+      "balance": 0,
+      "photoURL": "https://i.pravatar.cc/300",
+      "id": 9
+    },
+    {
+      "name": "Leonard",
+      "surname": "Hofsteder",
+      "balance": 1400,
+      "photoURL": "https://i.pravatar.cc/300",
+      "id": 10
+    },
+    {
+      "name": "Boris ",
+      "surname": "Morozov",
+      "balance": 1200,
+      "photoURL": "https://i.pravatar.cc/300",
+      "id": 11
+    },
+    {
+      "name": "",
+      "surname": "",
+      "balance": 0,
+      "photoURL": "https://i.pravatar.cc/300",
+      "id": 12
+    }
+  ]
+}

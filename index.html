@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet" >
+    <title>WHEEL OF FORTUNE</title>
+</head>
+<body>
+    <div class="wrapper">
+    <div class="container">
+            <div class="banner"></div>
+            <div class="title">WHEEL OF FORTUNE</div>
+
+            <div class="wrapper-wheel">
+                    <div class="wheel">
+                        <div class="wheel-pointer-wrapper">
+                            <img src="./wheel-pointer.png" class="wheel-pointer" alt="wheel-pointer">
+                        </div>
+                        <div class="wheel-image-wrapper">                       
+                             <!-- <img src="./wheel.png" class="wheel-image" alt="wheel">   -->
+                        </div>
+                    </div>  
+                    <div class="notification">
+                        <div class="wheel-info jackpot">JACKPOT<br>1000</div>
+                        <div class="wheel-info balance">BALANCE<br> 0 </div>
+                        <button class="button">SPIN<br>WHEEL</button>
+                        <div class="button-shadow"></div>
+                    </div>
+            </div>
+
+            <div class="winners">
+                <div class="sub-title">WINNERS</div>
+                    <div class="winners-wrapper">
+                        <div id="winners" class="winners-info-all"></div>
+                    </div>
+                 </div>
+             </div>
+
+        <div class="back-window"></div>
+
+
+        <div class="back-text-wrapper">
+            <div class="back-text-window">
+                <div class="back-title">YOu win!</div>
+                <div class="money-coin-container">
+                    <div class="back-window-money">0</div>
+                    <div class="back-window-coin">
+                        <img src="./coinsBig.png" alt="">
+                    </div>
+                </div>
+                <div class="congrat-button">Great</div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <script type="module" src="./index.js"></script>
+</body>
+</html>
